@@ -1,0 +1,4 @@
+C-admin/add-dept (done)
+R-admin/get-departments (done)
+U-admin/update-department/${editId} (done)
+D-delete-department/${id} (done)

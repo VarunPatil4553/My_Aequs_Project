@@ -1,0 +1,54 @@
+{
+    "task1": {
+        "Category": "Incoming Inspection",
+        "tasks": [
+            "Shelves",
+            "Carts",
+            "Electrical Panel"
+        ]
+    },
+    "task2": {
+        "Category": "Layout Table",
+        "tasks": [
+            "Granite",
+            "Micro-Hites",
+            "Equipment"
+        ]
+    },
+    "task3": {
+        "Category": "Keyence Table",
+        "tasks": [
+            "Plates",
+            "Equipment",
+            "Cameras",
+            "Calibration"
+        ]
+    },
+    "task4": {
+        "Category": "CMM",
+        "tasks": [
+            "Granite",
+            "Airways",
+            "Scales",
+            "Panels",
+            "Equipment",
+            "Calibration"
+        ]
+    },
+    "task5": {
+        "Category": "Visual Inspection",
+        "tasks": [
+            "Tables",
+            "Equipment"
+        ]
+    },
+    "task6": {
+        "Category": "General Area",
+        "tasks": [
+            "Equipment",
+            "Sweep",
+            "Trash",
+            "Scrap Bin"
+        ]
+    }
+}
